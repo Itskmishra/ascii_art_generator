@@ -84,8 +84,6 @@ $ cat art.txt
 /  /  (- (  (  () |/|/  () /  (  (/  
 ```
 
-- 
-
 ### Dependencies
 * Python 3.x
 * art library (installed via pip)
